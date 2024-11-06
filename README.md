@@ -60,7 +60,8 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT
-![OUTPUT](<Screenshot 2024-11-06 171815.png>)
+![5d](https://github.com/user-attachments/assets/e6cd7ed5-2a14-42b0-a233-72fdf3234078)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
